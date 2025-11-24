@@ -28,7 +28,7 @@ import org.apache.iceberg.rest.responses.LoadTableResponse;
 import org.apache.iceberg.util.PropertyUtil;
 
 /**
- * RESTServerCatalogAdapter是RESTCatalogAdapter的扩展实现，专门用于服务端适配器。
+ * RESTServerCatalogAdapter 是 RESTCatalogAdapter 的扩展实现，专门用于服务端适配器。
  *
  * 主要功能：
  * 1. 在基础 RESTCatalogAdapter 功能之上，增加了凭证信息处理能力
